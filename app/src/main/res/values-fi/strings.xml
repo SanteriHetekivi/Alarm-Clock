@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Herätyskello</string>
+    <string name="action_alarms">Herätykset</string>
+    <string name="title_activity_alarm">Herätys</string>
+    <string name="title_activity_alarms">Herätykset</string>
+    <string name="title_activity_date">Päivämäärä</string>
+    <string name="title_activity_time">Time</string>
+    <string name="button_addAlarm">Lisää Herätys</string>
+    <string name="button_setTime">Aseta Aika</string>
+    <string name="button_saveAlarm">Tallenna</string>
+    <string name="toast_overlappingAlarm">Tähän kellonaikaan on jo asetettu herätys!</string>
+    <string name="toast_alarmInPast">Ei voi laittaa herätystä menneisyyteen!</string>
+    <string name="button_stop">PYSÄYTÄ</string>
+    <string name="button_snooze">Torkku</string>
+    <string name="time_min">min</string>
+    <string name="yes">Kyllä</string>
+    <string name="no">Ei</string>
+    <string name="removeAlarmTitle">Poista herätys?</string>
+    <string name="toast_alarmSaved">Herätys tallennettu!</string>
+    <string name="upComingAlarmsTitle">Tulevat hälytykset</string>
+</resources>

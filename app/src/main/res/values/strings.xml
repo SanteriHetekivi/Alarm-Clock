@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Alarm Clock</string>
+    <string name="action_alarms">Alarms</string>
+    <string name="title_activity_date">Date</string>
+    <string name="title_activity_time">Time</string>
+    <string name="title_activity_alarm">Alarm</string>
+    <string name="title_activity_alarms">Alarms</string>
+    <string name="button_addAlarm">Add Alarm</string>
+    <string name="button_setTime">Set Time</string>
+    <string name="button_saveAlarm">Save</string>
+    <string name="toast_overlappingAlarm">This time has already a alarm!</string>
+    <string name="toast_alarmInPast">You can\'t put alarm in the past!</string>
+    <string name="button_stop">STOP</string>
+    <string name="button_snooze">Snooze</string>
+    <string name="time_min">min</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="removeAlarmTitle">Remove alarm?</string>
+    <string name="toast_alarmSaved">Alarm saved!</string>
+    <string name="upComingAlarmsTitle">Upcoming Alarms</string>
+</resources>
